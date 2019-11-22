@@ -1,0 +1,9 @@
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\bin\Debug\SQL_l10.exe.config
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\bin\Debug\SQL_l10.exe
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\bin\Debug\SQL_l10.pdb
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.csprojResolveAssemblyReference.cache
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.Form1.resources
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.Properties.Resources.resources
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.csproj.GenerateResource.Cache
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.exe
+C:\Users\user04\Desktop\374\Безуглый\374_Bezuglyi_l10\SQL_l10\obj\Debug\SQL_l10.pdb
